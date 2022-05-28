@@ -12,5 +12,6 @@ This is a Next.js template used to bootstrap a simple website with prebuilt page
 
 ### Developing:
 
+- `npx create-next-app -e https://github.com/garrett-huggins/cna-chakra-styled_components-template`
 - `npm install`
 - `npm run dev`
